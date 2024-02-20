@@ -1,2 +1,2 @@
-module Api::GreetingsHelper
+module GreetingsHelper
 end
