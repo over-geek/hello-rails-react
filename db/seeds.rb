@@ -1,0 +1,5 @@
+Message.create(greeting: 'Ni hao')
+Message.create(greeting: 'Hello')
+Message.create(greeting: 'Bonjour')
+Message.create(greeting: 'Namaste')
+Message.create(greeting: 'Konnichiwa')
